@@ -1,29 +1,41 @@
-name: EmotionImaging
-favicon: null
-layout_spectrum: 0.4653301059734076
-typography_spectrum: 0.15709
 title: Art Education
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6906887877266854
+  brandStrength: 0.124468085123226
+  lightness: 0.3561226474121213
+  brandColors:
+    - '#17120F'
+    - '#FFFFFF'
+    - '#6D6D6D'
+    - '#C3CFDF'
+    - '#433930'
+  rhythmicContrast: 0.9470918325241655
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: EmotionImaging
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#e51b8c'
-    - '#f49635'
-    - '#22a555'
-    - '#f8c6e2'
-  brandStrength: 0.12446808512322605
-  lightness: 0.3561226474121213
-  saturation: 0.6906887877266854
-  rhythmicContrast: 0.9470918325241655
-purpose: []
+typography_spectrum: 0.15709
+layout_spectrum: 0.4653301059734076
