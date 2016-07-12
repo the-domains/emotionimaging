@@ -1,7 +1,7 @@
 name: EmotionImaging
 favicon: null
 layout_spectrum: 0.4653301059734076
-typography_spectrum: 0.8548087652307004
+typography_spectrum: 0.15709
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#e51b8c'
+    - '#f49635'
+    - '#22a555'
+    - '#f8c6e2'
   brandStrength: 0.12446808512322605
   lightness: 0.3561226474121213
   saturation: 0.6906887877266854
